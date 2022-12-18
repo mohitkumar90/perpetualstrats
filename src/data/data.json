@@ -1,0 +1,181 @@
+{
+  "Header": {
+    "title": "More than just a Digital Marketing Agency, Meet your new Digital Partners",
+    "paragraph": "Say hi to Perpetual Strats. Based in Delhi NCR, we are a full-service, digital marketing company and solutions agency delivering reach to global and local brands.."
+  },
+  "About": {
+    "paragraph": "Perpetual Strats is a performance-based digital marketing agency catering to clients from, The United Kingdom, France, Germany, The Netherlands, UAE, Hong Kong, Australia and many more. We drive your business success value through tailor-made digital marketing solutions. Our solutions are based on a deep understanding of your goals, environment, business model and customers. We deliver innovative campaigns through an integration of SEO, design & development, content creation and social media. work with us and watch your business benefit from the latest trends in digital marketing and analytics.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "SEO",
+      "text": "Our SEO-expert approach is to create a detailed plan based on a thorough, site and market review. So, we push hard to get the highest impact on SEO, with minimal changes. Organic search remains a moving target, and being a professional SEO agency."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Web Analytics",
+      "text": "Use Perpetual Strats's Google Analytics Certified Professionals to help you audit and improve website analytics for your business. Create custom data analytics reports within Google Analytics, Google Data Studio or Tableau."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Email Marketing",
+      "text": "Perpetual Strats is focused on broadening that communication strategy which revolves around your targets and objectives, thus aiding you to meet the effective results. It is our belief that email marketing acts as an umbrella to hold all other digital marketing strategies together."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Social Media Services",
+      "text": "Being a social media agency, we understand how the absence of an effective social media advertising can severely affect your digital marketing campaign, rendering it almost handicapped. The sole aim is to put your brand ahead by making ample use of all the digital assets currently available."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "User Experience Design",
+      "text": "Every touchpoint your customer has with your brand gives shape to his experience. Every good user experience is the result of intensive research, human touch and a design which works as efficiently as it should."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Web Development",
+      "text": "Development Consulting, API Development, Front-end Development, Mobile Development, CMS Development, Support and Maintenance"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/user.png",
+      "name": "Himanshu Sharma",
+      "job": ""
+    },
+    {
+      "img": "img/team/user.png",
+      "name": "Gaurav Sharma",
+      "job": ""
+    },
+    {
+      "img": "img/team/user.png",
+      "name": "Mohit Kumar",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone1": "+91 8307502214",
+    "phone2": "+91 8290651736",
+    "email1": "himanshu@perpetualstrats.com",
+    "email2": "gaurav@perpetualstrats.com",
+    "facebook": "https://www.facebook.com/perpetualstrats",
+    "insta": "https://www.instagram.com/perpetualstrats/",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Technical SEO Services",
+      "text": "Technical SEO is the backbone and the foundation on which the success of all your online marketing efforts depends. With the evolution of Search Engines, we can’t really emphasize enough on the need of having a technically suitable website."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Google Web Analytics",
+      "text": "Email marketing is easily that dynamic medium which can be targeted, actively generated, automated, and assessed. And Perpetual Strats is dedicated to deliver you satisfaction."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Pay-per-click Marketing",
+      "text": "With the ever evolving technology, your customer's choice of platforms and understanding his intent, managing PPC accounts effectively is not an easy job. With the help of technology and the right team, we are fully capable of helping you excel in all your paid marketing efforts."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Social Media Marketing Services",
+      "text": "At Perpetual Strats we understand the worth of significant social activity and thus, have our team of digital marketing experts handling core social media platforms."
+    }
+  ]
+}
