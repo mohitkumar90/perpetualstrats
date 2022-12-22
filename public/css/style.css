@@ -143,6 +143,11 @@ hr {
 .section-title {
   margin-bottom: 70px;
 }
+.logo_img{
+  width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
 .section-title h2 {
   position: relative;
   margin-top: 10px;
@@ -566,6 +571,14 @@ label {
   color: rgba(255, 255, 255, 1);
   margin-bottom: 10px;
   display: block;
+}
+#contact .contact-item a{
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 10px;
+}
+#contact .contact-item .mail_flex{
+  color: rgba(255, 255, 255, 1);
+  display: flex;
 }
 #contact .contact-item i.fa {
   margin-right: 10px;

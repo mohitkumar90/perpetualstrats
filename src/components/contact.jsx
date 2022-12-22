@@ -108,19 +108,20 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Phone
+                   Phone
                 </span>{' '}
-               <div> {props.data ? props.data.phone1 : 'loading'}</div>
-                <div>{props.data ? props.data.phone2 : 'loading'}</div>
+               
+                <div> <a href={`tel:${props.data ? props.data.phone1 : 'loading'}`}><i className='fa fa-phone'></i></a>{props.data ? props.data.phone1 : 'loading'}</div>
+                <div><a href={`tel:${props.data ? props.data.phone2 : 'loading'}`}><i className='fa fa-phone'></i></a>{props.data ? props.data.phone2 : 'loading'}</div>
               </p>
             </div>
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-envelope-o'></i> Email
+                   Email
                 </span>{' '}
-                <div>{props.data ? props.data.email1 : 'loading'}</div>
-                <div>{props.data ? props.data.email2 : 'loading'}</div>
+                <div className="mail_flex"><a href={`mailto:${props.data ? props.data.email1 : 'loading'}`}><i className='fa fa-envelope-o'></i></a>{props.data ? props.data.email1 : 'loading'}</div>
+                <div className="mail_flex"><a href={`mailto:${props.data ? props.data.email2 : 'loading'}`}><i className='fa fa-envelope-o'></i></a>{props.data ? props.data.email2 : 'loading'}</div>
               </p>
             </div>
           </div>
